@@ -1,0 +1,8 @@
+Antonio_Ramos_AA4_EV03
+Ficha: 3336218
+Enlace GitHub: https://github.com/antonio-34/restaurante-sena-ev03
+Evidencia: GA7-220501096-AA4-EV03. Componente front-end del proyecto formativo y proyectos de 
+clase. 
+Frontend corriendo:http://localhost:3000/
+Backend corriendo: http://localhost:8080
+fecha: 27-10-2026
